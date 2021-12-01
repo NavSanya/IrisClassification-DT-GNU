@@ -34,6 +34,11 @@ Austin Kanu
 <!-- #Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email -->
 Nav Sanya Anand - (NavSanya@mail.fresnostate.edu) - email
 
+Clay Freitas - (hex5@mail.fresnostate.edu) - email
+
+Enrique Verduzco - (user605@mail.fresnostate.edu) - email
+
+Austin Kanu - (austinyutaro@mail.fresnostate.edu) - email
 
 ## Links
 
